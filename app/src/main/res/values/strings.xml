@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Able</string>
+    <string name="app_name">Spotty</string>
     <string name="app_name_full">AbleMusic</string>
     <string name="about">About</string>
     <string name="add_song">Add Song</string>
@@ -77,7 +77,7 @@ or via the UPI address %2$s</string>
     <string name="rem_playlist">Remove Playlist</string>
     <string name="dl_added">is added to Download Queue</string>
     <string name="about_also">Also, huge thanks to the NewPipe team for the extractor.</string>
-    <string name="dev">Udit Karode</string>
+    <string name="dev">Daniel</string>
     <string name="hpm">Hyperterminal</string>
     <string name="graphics_d">Sajid Shaik</string>
     <string name="product_man">Safan Sulfikar</string>
